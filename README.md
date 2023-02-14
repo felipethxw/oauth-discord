@@ -17,3 +17,6 @@ const redirectUri = "url que será redirecionado no oauth";
   <button>Logar com o Discord</button>
 </a>
 ```
+
+## Utilize ( npm i ) no Terminal para instalar as dependências.
+# Após isso só utilizar node . no Terminal para iniciar.
